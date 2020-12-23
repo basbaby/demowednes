@@ -4,7 +4,7 @@
 3. REST Assured
 4. Extent Reports
 5. Java 8 (As some of the features of Anypoint Studio(deployment using maven) not compatible with higher versions.)
-
+ewewewewe
 **Prerequisites:**
 1. Anypoint Platform 7+ is installed on your machine.
 2. You must have installed git on your local machine.
